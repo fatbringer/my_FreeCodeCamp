@@ -1,7 +1,7 @@
-# my_FreeCodeCamp
+# FreeCodeCamp Studies
 My studying on freecodecamp
 
-
+## Machine Learning with Python
 
 ### Introduction to Tensorflow
 tf.Variable
